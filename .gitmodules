@@ -1,0 +1,3 @@
+[submodule "InventoryStock"]
+	path = InventoryStock
+	url = https://github.com/Mahesh1744/InventoryStock.git
